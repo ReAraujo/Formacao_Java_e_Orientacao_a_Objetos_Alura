@@ -1,4 +1,4 @@
-package src.Java_JRE_JDK.D_LaçosDeRepetição;
+package src.Curso_01_Java_JRE_JDK.D_LaçosDeRepetição;
 
 public class TestaFor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.Java_JRE_JDK.C_Condicionais;
+package src.Curso_01_Java_JRE_JDK.C_Condicionais;
 
 public class TestaCondicionais_If {
     public static void main(String[] args) {
