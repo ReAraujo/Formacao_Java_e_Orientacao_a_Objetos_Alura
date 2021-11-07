@@ -1,4 +1,4 @@
-package src;
+package src.A_PrimeiroPrograma;
 
 public class OlaMundo{
     public static void main(String[] args) {
