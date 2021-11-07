@@ -1,4 +1,4 @@
-package src.C_Condicionais;
+package src.Java_JRE_JDK.C_Condicionais;
 
 public class TestaSwitch {
     public static void main(String[] args) {

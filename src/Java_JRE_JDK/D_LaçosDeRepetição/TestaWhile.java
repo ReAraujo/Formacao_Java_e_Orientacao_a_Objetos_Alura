@@ -1,4 +1,4 @@
-package src.D_LaçosDeRepetição;
+package src.Java_JRE_JDK.D_LaçosDeRepetição;
 
 public class TestaWhile {
     public static void main(String[] args) {

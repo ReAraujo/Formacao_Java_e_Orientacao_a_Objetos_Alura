@@ -1,4 +1,4 @@
-package src.C_Condicionais;
+package src.Java_JRE_JDK.C_Condicionais;
 
 public class TestaCondicionais_If_Boolean {
     public static void main(String[] args) {    

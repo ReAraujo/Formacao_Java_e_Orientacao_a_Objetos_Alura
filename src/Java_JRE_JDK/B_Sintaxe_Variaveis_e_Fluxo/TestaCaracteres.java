@@ -1,4 +1,4 @@
-package src.B_Sintaxe_Variaveis_e_Fluxo;
+package src.Java_JRE_JDK.B_Sintaxe_Variaveis_e_Fluxo;
 
 public class TestaCaracteres {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.D_LaçosDeRepetição;
+package src.Java_JRE_JDK.D_LaçosDeRepetição;
 
 public class Exercicio_Fatorial {
     public static void main(String[] args) {

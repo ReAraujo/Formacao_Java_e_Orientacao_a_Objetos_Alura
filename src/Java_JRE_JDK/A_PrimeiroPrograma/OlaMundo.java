@@ -1,4 +1,4 @@
-package src.A_PrimeiroPrograma;
+package src.Java_JRE_JDK.A_PrimeiroPrograma;
 
 public class OlaMundo{
     public static void main(String[] args) {
